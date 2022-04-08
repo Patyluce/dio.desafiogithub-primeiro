@@ -1,0 +1,17 @@
+link para download do Git: https://git-scm.com/
+
+Git Bash é um terminal extendido para otimizar o uso do Git.
+
+
+O git possui vários comandos. Exemplos:
+
+git config –global user.name “Seu nome”
+$ git config –global user.email “Seu email”
+$ git init.
+$ git init <O nome do seu repositório>
+git clone <Para clonar a URL do seu projeto>
+
+É importante limpar de vez em quando a janela do seu git
+(pra não ficar uma bagunça)
+ctrl+L 
+
