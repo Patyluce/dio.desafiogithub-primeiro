@@ -1,0 +1,13 @@
+   O Git pussui algumas etapas para realizar os processos:
+
+      traked
+untracked-> Un modified - Modified- Staged
+
+  Adicionar->
+              Editar->              
+                                   "stage"->
+<-Remove
+                          <-Commit
+
+
+   
