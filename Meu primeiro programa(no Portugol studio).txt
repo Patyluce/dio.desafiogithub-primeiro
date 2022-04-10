@@ -1,0 +1,63 @@
+
+tabuada
+
+programa
+{
+
+funcao inicio()
+	{
+		inteiro contador,limite,tabuada,resultado
+          cadeia resposta
+		contador=0
+		limite=10
+		
+
+		escreva(" qual a tabuada você quer que eu resolva?")
+		leia(tabuada)
+
+		faca{
+		resultado= tabuada*contador
+		escreva(tabuada + " X " + contador + " = " + resultado + "\n " )
+		
+	     contador++ 
+	     
+		}enquanto(contador<=limite) 
+	
+		escreva("Deseja resolver outra tabuada? [sim/não] \n")
+		leia(resposta) 
+		se(resposta=="sim")
+         
+         {
+        escreva("Digite o valor:\n")
+         leia(tabuada)
+
+         contador=0
+		limite=10
+         	 faca{ 
+         	 	resultado= tabuada*contador
+		escreva(tabuada + " X " + contador + " = " + resultado +  "\n " )
+		
+	     contador++ 
+	     
+		}enquanto(contador<=limite) 
+	    
+         	 }
+         	 senao
+           {
+           	escreva(" Espero ter ajudado!")
+           	
+           }
+
+         
+         
+
+
+        
+	
+	}
+	
+
+}
+	
+
+         
